@@ -15,7 +15,7 @@ ReactDOM.render(
 registerMicroApps([
   {
     name: 'subapp-react',
-    entry: '//localhost:3000',
+    entry: '//localhost:3001',
     container: '#subapp-container',
     activeRule: '/subapp-react',
   }
